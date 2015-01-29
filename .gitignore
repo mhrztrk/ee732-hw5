@@ -1,0 +1,10 @@
+# Result folders
+results*/
+Results*/
+
+# Mat files
+*.mat
+
+# Backup files
+*~
+
